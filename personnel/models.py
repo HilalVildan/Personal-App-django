@@ -12,7 +12,7 @@ class FixModel(models.Model):
         abstract = True
 
 # ----------------- Models ------------------
-
+#büyük harfle yazarak demek istedim ki bu global bir degisken bunu degistirme.
 GENDERS = (
     ('F', 'Female'),
     ('M', 'Male'),
